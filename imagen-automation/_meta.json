@@ -1,0 +1,11 @@
+{
+  "name": "imagen-automation",
+  "description": "Automates image generation and sending via Google Imagen 3 (Vertex AI).",
+  "version": "1.0.0",
+  "author": "Jérémie Caulier @jrm.ai",
+  "license": "MIT",
+  "tags": ["image-generation", "google-cloud", "vertex-ai", "automation"],
+  "requirements": [
+    "google-cloud-aiplatform"
+  ]
+}
